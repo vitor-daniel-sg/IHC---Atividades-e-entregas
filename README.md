@@ -31,7 +31,7 @@ O olhar para o futuro aponta para novas expectativas, como a possível chegada d
 
 ## Conclusão
 
-A trajetória do HTML e do CSS é marcada por marcos importantes que transformaram a internet. Desde os primeiros esboços de Tim Berners-Lee até os modernos padrões do HTML5 e CSS3, cada avanço possibilitou não apenas a criação de sites mais funcionais e atraentes, mas também o surgimento de uma web que reflete as necessidades e aspirações de uma sociedade em constante evolução. Essa história é, acima de tudo, uma celebração da criatividade e da capacidade humana de reinventar as ferramentas que usamos para conectar o mundo.
+A trajetória do HTML e do CSS é marcada por marcos importantes que transformaram a internet. Desde os primeiros esboços de Tim Berners-Lee até os modernos padrões do HTML5 e CSS3, cada avanço possibilitou não apenas a criação de sites mais funcionais e atraentes, mas também o surgimento de uma web que reflete as necessidades e aspirações de uma sociedade em constante evolução.
 
 ## Bibliografia
 
