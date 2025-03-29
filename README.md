@@ -38,6 +38,24 @@ O olhar para o futuro aponta para novas expectativas, como a possível chegada d
 , ​
 .
 
-Conclusão
+# Conclusão
+
 A trajetória do HTML e do CSS é marcada por marcos importantes que transformaram a internet. Desde os primeiros esboços de Tim Berners-Lee até os modernos padrões do HTML5 e CSS3, cada avanço possibilitou não apenas a criação de sites mais funcionais e atraentes, mas também o surgimento de uma web que reflete as necessidades e aspirações de uma sociedade em constante evolução. Essa história é, acima de tudo, uma celebração da criatividade e da capacidade humana de reinventar as ferramentas que usamos para conectar o mundo.
+,
+.
+
+# Bibliografia
+
+https://tech.pedrogalvao.com/dev/historia-do-html/
+https://blog.rocketseat.com.br/css-historia-base-fundamental-desenvolvimento-web/
+https://www.hostmidia.com.br/blog/html/
+https://pt.wikipedia.org/wiki/Cascading_Style_Sheets
+https://www.w3.org/People/Raggett/book4/ch02.html
+https://www.escoladnc.com.br/blog/tendencias-de-design-responsivo-para-2025
+,
+.
+
+
+
+
 
